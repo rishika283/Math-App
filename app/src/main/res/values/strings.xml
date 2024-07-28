@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+    <string name="multiply">Multiply</string>
+    <string name="divide">Divide</string>
+    <string name="result">Result</string>
+    <string name="odd_even">Odd/Even</string>
+    <string name="odd">Odd</string>
+    <string name="even">Even</string>
+</resources>
